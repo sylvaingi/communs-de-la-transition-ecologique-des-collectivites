@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [0.1.50](https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites/compare/v0.1.49...v0.1.50) (2026-04-20)
+
+
+### Features
+
+* **api:** ajouter normalizedScore et axesMatched dans le matching aides ([7ecae8f](https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites/commit/7ecae8f4c83c6f890917a6cd8c77e59b646757d9))
+
 ## [0.1.49](https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites/compare/v0.1.48...v0.1.49) (2026-04-07)
 
 
