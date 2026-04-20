@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [0.1.51](https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites/compare/v0.1.50...v0.1.51) (2026-04-20)
+
+
+### Features
+
+* **api:** ajouter paramètre limit au endpoint batch-classify ([3be2b47](https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites/commit/3be2b47edfb79c53ab08604e3883f88418701ed8))
+* **api:** classification batch via API Batch Anthropic pour les gros volumes ([08413bf](https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites/commit/08413bf1cc060ed172ab3e5cd3589b39ff4f8c6e))
+
+
+### Bug Fixes
+
+* **api:** ajouter retry avec backoff sur les erreurs transitoires AT ([5c8c0d1](https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites/commit/5c8c0d19b82799f60d4ef9186e9ad0775460b21e))
+* **api:** corriger les retours de review sur le batch processor ([b62ae69](https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites/commit/b62ae69ff58dc5947e39b5d5adf56e918560b924))
+* **api:** custom_id batch Anthropic — remplacer : par -- (regex ^[a-zA-Z0-9_-]{1,64}$) ([1edbe1e](https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites/commit/1edbe1e7f8b3841e7f962e432e153e2b1937f50c))
+
 ## [0.1.50](https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites/compare/v0.1.49...v0.1.50) (2026-04-20)
 
 
