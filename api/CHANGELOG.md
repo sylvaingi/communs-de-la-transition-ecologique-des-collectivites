@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [0.1.52](https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites/compare/v0.1.51...v0.1.52) (2026-04-20)
+
+
+### Features
+
+* **api:** centraliser les types aides dans dto/aides.dto.ts ([2172f64](https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites/commit/2172f64303370e18f8cd85c97654399de56899ec)), closes [#421](https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites/issues/421)
+
+
+### Bug Fixes
+
+* **api:** augmenter la limite body /projets/bulk de 2MB à 50MB ([8cd259c](https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites/commit/8cd259c6163b1ddee593f3151c9e3c5145aa5579))
+* **api:** corriger OOM du batch classification — cap à 5000 projets par job ([f9cbd45](https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites/commit/f9cbd45cbc48bb9dc54ec772a32af342b0062344))
+
 ## [0.1.51](https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites/compare/v0.1.50...v0.1.51) (2026-04-20)
 
 
