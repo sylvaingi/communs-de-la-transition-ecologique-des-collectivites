@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [0.1.53](https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites/compare/v0.1.52...v0.1.53) (2026-04-20)
+
+
+### Features
+
+* **api:** endpoint POST /management/batch-classify/recover ([812426d](https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites/commit/812426dabaecfe7582b28f36cdfb34715b23cf81))
+
+
+### Bug Fixes
+
+* **api:** budget_previsionnel integer → bigint (valeurs > 2.1 milliards) ([9082fea](https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites/commit/9082feae93530e6245f260edcfe6c5e2b26c15c4))
+
 ## [0.1.52](https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites/compare/v0.1.51...v0.1.52) (2026-04-20)
 
 
