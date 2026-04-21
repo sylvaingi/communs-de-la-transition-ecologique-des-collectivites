@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [0.1.54](https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites/compare/v0.1.53...v0.1.54) (2026-04-21)
+
+
+### Features
+
+* **api:** ajouter les headers de sécurité sur les pages HTML servies ([3144fb9](https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites/commit/3144fb945620c68e75739f5f041aefd7e5ca489a))
+
+
+### Bug Fixes
+
+* **api:** durcir la validation d'entrée POST /analytics/trackEvent ([bd4daac](https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites/commit/bd4daac8a0b7517442440974cf5e46f98ec4d767))
+
 ## [0.1.53](https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites/compare/v0.1.52...v0.1.53) (2026-04-20)
 
 
