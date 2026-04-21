@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [0.1.55](https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites/compare/v0.1.54...v0.1.55) (2026-04-21)
+
+
+### Bug Fixes
+
+* **api:** csp hotfix — autoriser google fonts et hash du script matomo ([10e2e09](https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites/commit/10e2e092164558438a9bc0d783c8f6002fc2d8f0)), closes [#429](https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites/issues/429)
+
 ## [0.1.54](https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites/compare/v0.1.53...v0.1.54) (2026-04-21)
 
 
