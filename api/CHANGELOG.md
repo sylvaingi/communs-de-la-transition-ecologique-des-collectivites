@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [0.1.56](https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites/compare/v0.1.55...v0.1.56) (2026-04-22)
+
+
+### Features
+
+* **api:** filtre source sur POST /management/batch-classify ([fdea5d5](https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites/commit/fdea5d5330888f536d433aca7245962a444db069))
+
 ## [0.1.55](https://github.com/betagouv/communs-de-la-transition-ecologique-des-collectivites/compare/v0.1.54...v0.1.55) (2026-04-21)
 
 
